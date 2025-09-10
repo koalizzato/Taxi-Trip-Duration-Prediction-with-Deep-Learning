@@ -1,7 +1,6 @@
 # Taxi-Trip-Duration-Prediction-with-Deep-Learning
 
-This project was developed as part of the *Advanced Machine Learning* course at the University of Milano-Bicocca.  
-The focus is on predicting the duration of taxi trips in New York City using both Deep Learning and Machine Learning techniques, comparing neural network architectures with the XGBoost algorithm.
+The focus of this project is on predicting the duration of taxi trips in New York City using both Deep Learning and Machine Learning techniques, comparing neural network architectures with the XGBoost algorithm.
 
 ---
 
